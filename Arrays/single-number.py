@@ -12,3 +12,4 @@ class Solution:
                 
         else:
             return nums[0]
+            

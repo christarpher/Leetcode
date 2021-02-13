@@ -5,3 +5,4 @@ class Solution:
             if(prices[item] > prices[item-1]):
                 profit += (prices[item] - prices[item-1])
         return profit
+        
